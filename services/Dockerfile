@@ -58,3 +58,4 @@ USER appuser
 
 # Run the app binary
 ENTRYPOINT ["/go/bin/app"]
+#####
